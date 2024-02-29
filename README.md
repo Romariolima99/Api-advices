@@ -31,7 +31,7 @@ O Api-advices é uma aplicação simples desenvolvida com HTML, CSS e JavaScript
 - CSS3
 - JavaScript
 
-- API de Conselhos Aleatórios ```js (https://api.adviceslip.com/advice)```
+- API de Conselhos Aleatórios ```(https://api.adviceslip.com/advice)```
 
 
 <img src="https://i.imgur.com/1DS658w.png" alt="GIF" data-canonical-src="https://i.imgur.com/1DS658w.png" style="max-width: 50%;">

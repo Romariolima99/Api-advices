@@ -20,3 +20,4 @@ async function ExibirDados (){
     document.getElementById('advice').innerHTML = result.slip.advice;
 
   } 
+  

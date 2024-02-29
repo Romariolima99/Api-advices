@@ -10,10 +10,8 @@ async function ExibirDados (){
         return response.json();
       })
       .then(data => { result = data;
-        console.log('Dados recebidos:', data);
       })
       .catch(error => {
-        console.error('Ocorreu um erro ao buscar os dados:', error);
     
       });
     

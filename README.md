@@ -33,7 +33,7 @@ O Api-advices é uma aplicação simples desenvolvida com HTML, CSS e JavaScript
 
 - API de Conselhos Aleatórios ```(https://api.adviceslip.com/advice)```
 
-- Veja o Projeto: https://main--fascinating-eclair-78a70c.netlify.app/
+- Veja o Projeto: https://advice-generator-romario.netlify.app/
 
 
 <img src="https://i.imgur.com/1DS658w.png" alt="GIF" data-canonical-src="https://i.imgur.com/1DS658w.png" style="max-width: 50%;">
